@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+
+}
+.left{
+    margin-left: 20px;
+}
+.space{
+    margin: 10px;
+}
+.droit{
+    display: inline;
+}
+
